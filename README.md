@@ -1,0 +1,1 @@
+Con JavaScript se crea una funcion que cree u  número aleatrorio y usando el teorema de pitágoras  se puede descubrir que tan cerca esta del punto donde se encuentra el tesoro, cada vez que se de un click en el mapa van aunmentando la cantidad de click/intentos, y al encontrar el tesoro se dira que cuantos en cuantos clicks hizo para encontrar el tesoro
